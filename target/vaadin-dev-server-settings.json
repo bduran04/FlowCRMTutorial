@@ -1,0 +1,18 @@
+{
+  "frontendFolder": "/Users/bduran04/Downloads/flow-crm-tutorial/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/bduran04/Downloads/flow-crm-tutorial/frontend/generated/jar-resources",
+  "staticOutput": "/Users/bduran04/Downloads/flow-crm-tutorial/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/Users/bduran04/Downloads/flow-crm-tutorial/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/Users/bduran04/Downloads/flow-crm-tutorial/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/Users/bduran04/Downloads/flow-crm-tutorial/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "/Users/bduran04/Downloads/flow-crm-tutorial/src/main/dev-bundle/config",
+  "jarResourcesFolder": "/Users/bduran04/Downloads/flow-crm-tutorial/frontend/generated/jar-resources",
+  "generatedFlowImportsFolder": "target/frontend",
+  "themeName": "flowcrmtutorial",
+  "clientServiceWorkerSource": "/Users/bduran04/Downloads/flow-crm-tutorial/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
