@@ -1,0 +1,17 @@
+{
+  "productionMode": false,
+  "eagerServerLoad": false,
+  "npmFolder": "/Users/bduran04/Desktop/FlowCRMTutorial",
+  "node.version": "v18.14.1",
+  "node.download.root": "https://nodejs.org/dist/",
+  "generatedFolder": "/Users/bduran04/Desktop/FlowCRMTutorial/target/frontend",
+  "frontendFolder": "/Users/bduran04/Desktop/FlowCRMTutorial/frontend",
+  "connect.javaSourceFolder": "/Users/bduran04/Desktop/FlowCRMTutorial/src/main/java",
+  "javaResourceFolder": "/Users/bduran04/Desktop/FlowCRMTutorial/src/main/resources",
+  "connect.applicationProperties": "/Users/bduran04/Desktop/FlowCRMTutorial/src/main/resources/application.properties",
+  "connect.openApiFile": "/Users/bduran04/Desktop/FlowCRMTutorial/target/generated-resources/openapi.json",
+  "project.frontend.generated": "/Users/bduran04/Desktop/FlowCRMTutorial/frontend/generated",
+  "pnpm.enable": false,
+  "require.home.node": false,
+  "build.folder": "target"
+}
